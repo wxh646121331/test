@@ -1,0 +1,7 @@
+person:
+  name: wxh
+  age: 18
+  birth-day: 2001/01/23
+  map: {k1: v1,k2: v2}
+  list: [l1,l2,l3]
+  dog: {name: wc,age: 2}

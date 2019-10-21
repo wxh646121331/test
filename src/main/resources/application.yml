@@ -1,0 +1,37 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /test
+
+spring.
+
+#spring:
+#  profiles:
+#    active: prod
+
+---
+server:
+  port: 8083
+spring:
+  profiles: dev
+
+---
+server:
+  port: 8084
+spring:
+  profiles: prod
+
+
+#person:
+#  name: wxh${random.uuid}${random.value}
+#  age: ${random.int[1,100]}
+#  birth-day: 2001/01/23
+#  map: {k1: v1,k2: v2}
+#  list: [l1,l2,l3]
+#  dog:
+#    name: ${person.hello:hello}_dog
+#    age: ${random.int(10)}
+
+#spring:
+#  profiles:
+#    active: dev
