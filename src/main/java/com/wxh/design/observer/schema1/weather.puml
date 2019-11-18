@@ -1,0 +1,16 @@
+@startuml
+
+class WeatherData{
+getTemperature()
+getHumidity()
+getPressure()
+dataChange()
+}
+
+class CurrentConditions{
+update()
+display
+}
+
+WeatherData --> CurrentConditions
+@enduml

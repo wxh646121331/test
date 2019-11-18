@@ -1,0 +1,38 @@
+@startuml
+
+interface Subject{
+registerObserver(o: Observer):void
+removeObserver(o:Observer):void
+notifyObservers()
+}
+
+class WeatherData{
+Observers:ArrayList
+registerObserver(o: Observer):void
+removeObserver(o:Observer):void
+notifyObservers()
+}
+note right: 核心类\n1.天气信息 \n2.管理观察者Observers
+
+WeatherData .u.|> Subject
+
+interface Observer{
+update()
+}
+Subject --> Observer
+'Observer -u-o WeatherData
+
+class CurrentCondition
+CurrentCondition .u.|>Observer
+class Baidu
+Baidu .u.|>Observer
+class Xinlang
+Xinlang .u.|>Observer
+note left: 接收输入
+
+Observer -l-o WeatherData
+
+class Client
+Client -r-> Subject
+Client --> Observer
+@enduml
