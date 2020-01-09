@@ -1,0 +1,4 @@
+世界，你好
+你准备好的吗？
+Hello, world
+Are you ready?

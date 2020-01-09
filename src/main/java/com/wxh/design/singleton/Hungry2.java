@@ -23,17 +23,4 @@ public class Hungry2 {
         }
         return instance;
     }
-
-    /**
-     * 有并发问题
-     * @return
-     */
-    public synchronized static Hungry2 getInstance1(){
-        if(null == instance){
-            synchronized (Hungry2.class){
-                instance = new Hungry2();
-            }
-        }
-        return instance;
-    }
 }

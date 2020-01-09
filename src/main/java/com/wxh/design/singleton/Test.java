@@ -18,5 +18,9 @@ public class Test {
         Hungry1 h1 = Hungry1.getInstance();
         Hungry1 h2 = Hungry1.getInstance();
         System.out.println(h1==h2);
+
+        //JDK单例模式
+        Runtime runtime = Runtime.getRuntime();
+        runtime.gc();
     }
 }
