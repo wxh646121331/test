@@ -3,3 +3,7 @@ target/
 target/*
 .idea/
 .idea/*
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/workspace.xml
