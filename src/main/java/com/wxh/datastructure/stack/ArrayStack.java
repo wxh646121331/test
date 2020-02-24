@@ -37,4 +37,16 @@ public class ArrayStack {
         }
         return arr[--size];
     }
+
+    public int peek(){
+        if(0 == size){
+            throw new RuntimeException("栈为空，不能出栈");
+        }
+        return arr[size-1];
+    }
+
+    public boolean isEmpty(){
+        return 0 == size;
+    }
+
 }

@@ -2,49 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9171bbd3-d281-46fb-aed4-cde0ffdbf5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/output/problem-with-solution.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsProduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/KuhnMunkres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/entity/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/DoubleLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/HeroNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/JosephProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/SingleLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/queue/CircleArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/Hungry3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/InterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/javabase/io/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jsprit/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/file/BufferStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/file/FileInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/file/FileOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/file/FileReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/file/FileWriterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/matrix/MatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/socket/DatagramSocketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/socket/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/socket/Socket1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/socket/Socket2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/R101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/IOCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/recursion/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/recursion/Queen8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/OperatorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/common/DataInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/common/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/constant/NeighborhoodStrategyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Tour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ils/IteratedLocalSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/neighborhood/strategy/AbstractStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/neighborhood/strategy/SwapStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/SimulatedAnnealing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/TourManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/TabuSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/util/Solutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/design/observer/schema2/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/design/observer/schema2/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/Hungry2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/Hungry2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/design/singleton/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/StackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +101,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -124,28 +118,28 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wxh" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wxh.activemq" />
       <recent name="com.wxh" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/wxh/datastructure" />
       <recent name="$PROJECT_DIR$/github-test-datastruture/src/main/java/com/wxh/data/structure/queue" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.wxh.activemq" />
-      <recent name="com.wxh" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayStackTest.test">
-    <configuration name="JosephProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.linkedlist.JosephProblem" />
+  <component name="RunManager" selected="JUnit.IOCTest.test1">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.annotation.MainTest" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.wxh.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,65 +147,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayStackTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.recursion.Maze" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.stack.*" />
+          <option name="PATTERN" value="com.wxh.datastructure.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxh.datastructure.stack" />
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.stack.ArrayStackTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleLinkedListTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.jsprit.Test1" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.wxh.jsprit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxh.datastructure.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.linkedlist.DoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="addTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedListTest.mergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VariableNeighborhoodSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.vrp.vns.VariableNeighborhoodSearch" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.wxh.vrp.vns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxh.datastructure.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.linkedlist.SingleLinkedListTest" />
-      <option name="METHOD_NAME" value="mergeTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleLinkedListTest.reversePrintTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IOCTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.linkedlist.*" />
+          <option name="PATTERN" value="com.wxh.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxh.datastructure.linkedlist" />
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.linkedlist.SingleLinkedListTest" />
-      <option name="METHOD_NAME" value="reversePrintTest" />
+      <option name="PACKAGE_NAME" value="com.wxh.annotation" />
+      <option name="MAIN_CLASS_NAME" value="com.wxh.annotation.IOCTest" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,20 +211,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Maze" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.VariableNeighborhoodSearch" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="JUnit.IOCTest.test1" />
       <item itemvalue="Spring Boot.SpringBootDemoApplication" />
-      <item itemvalue="JUnit.SingleLinkedListTest.reversePrintTest" />
-      <item itemvalue="JUnit.SingleLinkedListTest.mergeTest" />
-      <item itemvalue="JUnit.DoubleLinkedListTest.addTest" />
-      <item itemvalue="Application.JosephProblem" />
-      <item itemvalue="JUnit.ArrayStackTest.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayStackTest.test" />
-        <item itemvalue="Application.JosephProblem" />
-        <item itemvalue="JUnit.DoubleLinkedListTest.addTest" />
-        <item itemvalue="JUnit.SingleLinkedListTest.mergeTest" />
-        <item itemvalue="JUnit.SingleLinkedListTest.reversePrintTest" />
+        <item itemvalue="JUnit.IOCTest.test1" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.VariableNeighborhoodSearch" />
+        <item itemvalue="Application.Maze" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +276,15 @@
       <workItem from="1578277254527" duration="613000" />
       <workItem from="1578277987327" duration="21000" />
       <workItem from="1578278029907" duration="1118000" />
-      <workItem from="1578281943554" duration="11708000" />
+      <workItem from="1578281943554" duration="16178000" />
+      <workItem from="1578626020090" duration="67929000" />
+      <workItem from="1580893991725" duration="3641000" />
+      <workItem from="1581051403282" duration="28951000" />
+      <workItem from="1582007691307" duration="238000" />
+      <workItem from="1582007965618" duration="250000" />
+      <workItem from="1582016297670" duration="82000" />
+      <workItem from="1582016416117" duration="282000" />
+      <workItem from="1582017110912" duration="1070000" />
     </task>
     <servers />
   </component>
@@ -299,70 +292,122 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1578482901213">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1580810187057">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
+    <state x="933" y="155" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259951203" />
     <state x="933" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1578482901213" />
+    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1579491773977" />
+    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.839@0.23.1440.839" timestamp="1580810187057" />
     <state x="569" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578020579630">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="569" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.834@0.23.1440.834" timestamp="1578020579630" />
+    <state x="468" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580719370091">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1579248697400" />
+    <state x="468" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.838@0.23.1440.838" timestamp="1580719370091" />
     <state x="458" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578481363865">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="458" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.834@0.23.1440.834" timestamp="1578481363865" />
-    <state width="505" height="466" key="DebuggerActiveHint" timestamp="1578484553044">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="533" height="545" key="DebuggerActiveHint" timestamp="1581849323944">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="505" height="466" key="DebuggerActiveHint/0.23.1440.834@0.23.1440.834" timestamp="1578484553044" />
-    <state width="1398" height="186" key="GridCell.Tab.0.bottom" timestamp="1578534937300">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="533" height="584" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1580890856511" />
+    <state width="505" height="466" key="DebuggerActiveHint/0.23.1440.834@0.23.1440.834" timestamp="1578633764840" />
+    <state width="505" height="542" key="DebuggerActiveHint/0.23.1440.836@0.23.1440.836" timestamp="1579416511820" />
+    <state width="533" height="545" key="DebuggerActiveHint/0.23.1440.839@0.23.1440.839" timestamp="1581849323944" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1581850725295">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578028113235" />
-    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578534937300" />
-    <state width="1398" height="186" key="GridCell.Tab.0.center" timestamp="1578534937299">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580892995523" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
+    <state width="1398" height="90" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1579419834133" />
+    <state width="1398" height="4" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1580719061880" />
+    <state width="802" height="2" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1580719136598" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1581850725295">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="191" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578028113233" />
-    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1578534937299" />
-    <state width="1398" height="186" key="GridCell.Tab.0.left" timestamp="1578534937299">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580892995522" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
+    <state width="1398" height="90" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1579419834132" />
+    <state width="1398" height="4" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1580719061879" />
+    <state width="802" height="2" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1580719136597" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1581850725294">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="191" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578028113232" />
-    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1578534937299" />
-    <state width="1398" height="186" key="GridCell.Tab.0.right" timestamp="1578534937300">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580892995522" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1579244452846" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1580213380499" />
+    <state width="1398" height="90" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1579419834132" />
+    <state width="1398" height="4" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1580719061879" />
+    <state width="802" height="2" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1580719136596" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1581850725294" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1581850725295">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="191" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578028113234" />
-    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1578534937300" />
-    <state width="1398" height="179" key="GridCell.Tab.1.bottom" timestamp="1578484579643">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580892995523" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
+    <state width="1398" height="90" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1579419834133" />
+    <state width="1398" height="4" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1580719061880" />
+    <state width="802" height="2" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1580719136598" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
+    <state width="873" height="223" key="GridCell.Tab.1.bottom" timestamp="1581849597475">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577887531432" />
-    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578484579643" />
-    <state width="1398" height="179" key="GridCell.Tab.1.center" timestamp="1578484579642">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580892995515" />
+    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578634324237" />
+    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1578882311465" />
+    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.836@0.23.1440.836" timestamp="1578882342840" />
+    <state width="873" height="223" key="GridCell.Tab.1.bottom/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
+    <state width="873" height="223" key="GridCell.Tab.1.center" timestamp="1581849597475">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577887531431" />
-    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1578484579642" />
-    <state width="1398" height="179" key="GridCell.Tab.1.left" timestamp="1578484579641">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="262" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580892995514" />
+    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1578634324234" />
+    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1578882311462" />
+    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.836@0.23.1440.836" timestamp="1578882342839" />
+    <state width="873" height="223" key="GridCell.Tab.1.center/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
+    <state width="873" height="223" key="GridCell.Tab.1.left" timestamp="1581849597474">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577887531430" />
-    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1578484579641" />
-    <state width="1398" height="179" key="GridCell.Tab.1.right" timestamp="1578484579642">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="262" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580892995514" />
+    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1578634324233" />
+    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1578882311461" />
+    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.836@0.23.1440.836" timestamp="1578882342838" />
+    <state width="873" height="223" key="GridCell.Tab.1.left/0.23.1440.839@0.23.1440.839" timestamp="1581849597474" />
+    <state width="873" height="223" key="GridCell.Tab.1.right" timestamp="1581849597475">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="325" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577887531431" />
-    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1578484579642" />
+    <state width="1398" height="262" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580892995515" />
+    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1578634324234" />
+    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1578882311463" />
+    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.836@0.23.1440.836" timestamp="1578882342840" />
+    <state width="873" height="223" key="GridCell.Tab.1.right/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
+    <state x="0" y="23" width="1440" height="839" key="SettingsEditor" timestamp="1581389715727">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="229" y="79" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1578546309728" />
+    <state x="229" y="79" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1578882297839" />
+    <state x="0" y="23" width="1440" height="839" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1581389715727" />
     <state x="114" y="144" key="new project wizard" timestamp="1578229084798">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="114" y="144" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1578229084798" />
-    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup" timestamp="1578481078371">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup" timestamp="1581596103209">
+      <screen x="0" y="23" width="1440" height="839" />
     </state>
+    <state x="385" y="170" width="670" height="730" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580891116653" />
     <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1578481078371" />
+    <state x="385" y="181" width="670" height="677" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1580134848974" />
+    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1581596103209" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,26 +433,6 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/graphhopper/jsprit-core/1.7.3/jsprit-core-1.7.3.jar!/com/graphhopper/jsprit/core/problem/Capacity.class</url>
-          <line>195</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/graphhopper/jsprit-core/1.7.3/jsprit-core-1.7.3.jar!/com/graphhopper/jsprit/core/problem/vehicle/VehicleTypeImpl.class</url>
-          <line>185</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/graphhopper/jsprit-core/1.7.3/jsprit-core-1.7.3.jar!/com/graphhopper/jsprit/core/problem/vehicle/VehicleTypeImpl.class</url>
-          <line>189</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/graphhopper/jsprit-core/1.7.3/jsprit-core-1.7.3.jar!/com/graphhopper/jsprit/core/problem/Capacity.class</url>
-          <line>216</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/DoubleLinkedListTest.java</url>
           <line>20</line>
           <option name="timeStamp" value="13" />
@@ -431,6 +456,61 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/linkedlist/JosephProblem.java</url>
           <line>42</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/Calculator.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/jsprit/Test1.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/jsprit/Test1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/graphhopper/jsprit-core/1.7.3/jsprit-core-1.7.3.jar!/com/graphhopper/jsprit/core/algorithm/box/Jsprit.class</url>
+          <line>116</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Solution.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Solution.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/annotation/MainTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
