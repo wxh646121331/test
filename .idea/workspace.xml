@@ -2,42 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9171bbd3-d281-46fb-aed4-cde0ffdbf5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/R101.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/IOCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/annotation/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/recursion/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/recursion/Queen8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/OperatorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ReversePolishNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/common/DataInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/common/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/constant/NeighborhoodStrategyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Tour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ils/IteratedLocalSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/neighborhood/strategy/AbstractStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/neighborhood/strategy/SwapStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/SimulatedAnnealing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/TourManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/Route.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/TabuSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/util/Solutions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/vns/VariableNeighborhoodSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/DefaultDesktop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executor.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/BipartiteGraphGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/KmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/VertexType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/binarysearch/BinarySearchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dac/HanoiTower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/VisitedVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dynamic/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/floyd/FloydAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/floyd/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/kmp/KmpAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/kmp/violenceMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/kruskal/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/kruskal/KruskalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/prim/MGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/prim/MinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/algorithm/prim/PrimAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/beautycode/game/chapter1/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/avl/AvlTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/avl/AvlTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/avl/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/ThreadedBinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/huffman/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/huffman/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/huffmancode/HuffmanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/huffmancode/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/graph/GraphDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jvm/ClassLoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jvm/PrepareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jvm/ShkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jvm/StackStruTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/Leetcode29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Interview29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode1078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode1431.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode690.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode837.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Chromosome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Conf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/GA_Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/zookeeper/watchclient/DataMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/zookeeper/watchclient/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/lang/ShkStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/C101.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/wxh/jgrapht/GraphTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ArrayStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/entity/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/SimulatedAnnealing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/sa/SimulatedAnnealing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +143,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wxh/datastructure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -118,28 +156,32 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.wxh" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ga" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/wxh/datastructure" />
+      <recent name="$PROJECT_DIR$/github-test-datastruture/src/main/java/com/wxh/data/structure/queue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.wxh.activemq" />
       <recent name="com.wxh" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/wxh/datastructure" />
-      <recent name="$PROJECT_DIR$/github-test-datastruture/src/main/java/com/wxh/data/structure/queue" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/sh" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IOCTest.test1">
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.annotation.MainTest" />
+  <component name="RunManager" selected="Application.Test3">
+    <configuration name="Interview29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Interview29" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.annotation.*" />
+          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.datastructure.recursion.Maze" />
+    <configuration name="Leetcode238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Leetcode238" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.datastructure.recursion.*" />
+          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.jsprit.Test1" />
+    <configuration name="Leetcode64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Leetcode64" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.jsprit.*" />
+          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableNeighborhoodSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.vrp.vns.VariableNeighborhoodSearch" />
+    <configuration name="Leetcode837" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Leetcode837" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.vrp.vns.*" />
+          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,18 +228,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.beautycode.game.chapter1.Test3" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.annotation.*" />
+          <option name="PATTERN" value="com.wxh.beautycode.game.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.wxh.annotation" />
-      <option name="MAIN_CLASS_NAME" value="com.wxh.annotation.IOCTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,20 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Maze" />
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.VariableNeighborhoodSearch" />
-      <item itemvalue="Application.MainTest" />
-      <item itemvalue="JUnit.IOCTest.test1" />
-      <item itemvalue="Spring Boot.SpringBootDemoApplication" />
+      <item itemvalue="Application.Leetcode64" />
+      <item itemvalue="Application.Leetcode837" />
+      <item itemvalue="Application.Leetcode238" />
+      <item itemvalue="Application.Interview29" />
+      <item itemvalue="Application.Test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IOCTest.test1" />
-        <item itemvalue="Application.MainTest" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.VariableNeighborhoodSearch" />
-        <item itemvalue="Application.Maze" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Interview29" />
+        <item itemvalue="Application.Leetcode238" />
+        <item itemvalue="Application.Leetcode837" />
+        <item itemvalue="Application.Leetcode64" />
       </list>
     </recent_temporary>
   </component>
@@ -292,122 +330,79 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1580810187057">
+    <state x="95" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584257633141">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state x="933" y="155" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1579259951203" />
-    <state x="933" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1578482901213" />
-    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1579491773977" />
-    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.839@0.23.1440.839" timestamp="1580810187057" />
-    <state x="569" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578020579630">
-      <screen x="0" y="23" width="1440" height="834" />
-    </state>
-    <state x="569" y="372" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.834@0.23.1440.834" timestamp="1578020579630" />
-    <state x="468" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580719370091">
-      <screen x="0" y="23" width="1440" height="838" />
-    </state>
-    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1579248697400" />
-    <state x="468" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.838@0.23.1440.838" timestamp="1580719370091" />
-    <state x="458" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578481363865">
-      <screen x="0" y="23" width="1440" height="834" />
-    </state>
-    <state x="458" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.834@0.23.1440.834" timestamp="1578481363865" />
-    <state width="533" height="545" key="DebuggerActiveHint" timestamp="1581849323944">
+    <state x="95" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.839@0.23.1440.839" timestamp="1584257633141" />
+    <state x="821" y="454" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591458181425">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="533" height="584" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1580890856511" />
-    <state width="505" height="466" key="DebuggerActiveHint/0.23.1440.834@0.23.1440.834" timestamp="1578633764840" />
-    <state width="505" height="542" key="DebuggerActiveHint/0.23.1440.836@0.23.1440.836" timestamp="1579416511820" />
-    <state width="533" height="545" key="DebuggerActiveHint/0.23.1440.839@0.23.1440.839" timestamp="1581849323944" />
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1581850725295">
+    <state x="821" y="454" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.839@0.23.1440.839" timestamp="1591458181425" />
+    <state x="507" y="154" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584257531259">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580892995523" />
-    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
-    <state width="1398" height="90" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1579419834133" />
-    <state width="1398" height="4" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1580719061880" />
-    <state width="802" height="2" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1580719136598" />
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1581850725295">
+    <state x="507" y="154" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.839@0.23.1440.839" timestamp="1584257531259" />
+    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1585274686781">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580892995522" />
-    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
-    <state width="1398" height="90" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1579419834132" />
-    <state width="1398" height="4" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1580719061879" />
-    <state width="802" height="2" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1580719136597" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1581850725294">
+    <state x="933" y="155" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584064445006" />
+    <state x="933" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.839@0.23.1440.839" timestamp="1585274686781" />
+    <state x="457" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584200173532">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580892995522" />
-    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1579244452846" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1580213380499" />
-    <state width="1398" height="90" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1579419834132" />
-    <state width="1398" height="4" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1580719061879" />
-    <state width="802" height="2" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1580719136596" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1581850725294" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1581850725295">
+    <state x="457" y="233" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.839@0.23.1440.839" timestamp="1584200173532" />
+    <state width="533" height="545" key="DebuggerActiveHint" timestamp="1585279962835">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580892995523" />
-    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1579244452847" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1580213380500" />
-    <state width="1398" height="90" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1579419834133" />
-    <state width="1398" height="4" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1580719061880" />
-    <state width="802" height="2" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1580719136598" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1581850725295" />
-    <state width="873" height="223" key="GridCell.Tab.1.bottom" timestamp="1581849597475">
+    <state width="533" height="545" key="DebuggerActiveHint/0.23.1440.839@0.23.1440.839" timestamp="1585279962835" />
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom" timestamp="1591578933923">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580892995515" />
-    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1578634324237" />
-    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1578882311465" />
-    <state width="1398" height="179" key="GridCell.Tab.1.bottom/0.23.1440.836@0.23.1440.836" timestamp="1578882342840" />
-    <state width="873" height="223" key="GridCell.Tab.1.bottom/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
-    <state width="873" height="223" key="GridCell.Tab.1.center" timestamp="1581849597475">
+    <state width="1398" height="139" key="GridCell.Tab.0.bottom/0.23.1440.839@0.23.1440.839" timestamp="1591578933923" />
+    <state width="1398" height="139" key="GridCell.Tab.0.center" timestamp="1591578933922">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580892995514" />
-    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1578634324234" />
-    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1578882311462" />
-    <state width="1398" height="179" key="GridCell.Tab.1.center/0.23.1440.836@0.23.1440.836" timestamp="1578882342839" />
-    <state width="873" height="223" key="GridCell.Tab.1.center/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
-    <state width="873" height="223" key="GridCell.Tab.1.left" timestamp="1581849597474">
+    <state width="1398" height="139" key="GridCell.Tab.0.center/0.23.1440.839@0.23.1440.839" timestamp="1591578933922" />
+    <state width="1398" height="139" key="GridCell.Tab.0.left" timestamp="1591578933921">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580892995514" />
-    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1578634324233" />
-    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1578882311461" />
-    <state width="1398" height="179" key="GridCell.Tab.1.left/0.23.1440.836@0.23.1440.836" timestamp="1578882342838" />
-    <state width="873" height="223" key="GridCell.Tab.1.left/0.23.1440.839@0.23.1440.839" timestamp="1581849597474" />
-    <state width="873" height="223" key="GridCell.Tab.1.right" timestamp="1581849597475">
+    <state width="1398" height="139" key="GridCell.Tab.0.left/0.23.1440.839@0.23.1440.839" timestamp="1591578933921" />
+    <state width="1398" height="139" key="GridCell.Tab.0.right" timestamp="1591578933922">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state width="1398" height="262" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580892995515" />
-    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1578634324234" />
-    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1578882311463" />
-    <state width="1398" height="179" key="GridCell.Tab.1.right/0.23.1440.836@0.23.1440.836" timestamp="1578882342840" />
-    <state width="873" height="223" key="GridCell.Tab.1.right/0.23.1440.839@0.23.1440.839" timestamp="1581849597475" />
-    <state x="0" y="23" width="1440" height="839" key="SettingsEditor" timestamp="1581389715727">
+    <state width="1398" height="139" key="GridCell.Tab.0.right/0.23.1440.839@0.23.1440.839" timestamp="1591578933922" />
+    <state width="1398" height="139" key="GridCell.Tab.1.bottom" timestamp="1591578933924">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state x="229" y="79" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1578546309728" />
-    <state x="229" y="79" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1578882297839" />
-    <state x="0" y="23" width="1440" height="839" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1581389715727" />
-    <state x="114" y="144" key="new project wizard" timestamp="1578229084798">
-      <screen x="0" y="23" width="1440" height="834" />
-    </state>
-    <state x="114" y="144" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1578229084798" />
-    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup" timestamp="1581596103209">
+    <state width="1398" height="139" key="GridCell.Tab.1.bottom/0.23.1440.839@0.23.1440.839" timestamp="1591578933924" />
+    <state width="1398" height="139" key="GridCell.Tab.1.center" timestamp="1591578933923">
       <screen x="0" y="23" width="1440" height="839" />
     </state>
-    <state x="385" y="170" width="670" height="730" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580891116653" />
-    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1578481078371" />
-    <state x="385" y="181" width="670" height="677" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1580134848974" />
-    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1581596103209" />
+    <state width="1398" height="139" key="GridCell.Tab.1.center/0.23.1440.839@0.23.1440.839" timestamp="1591578933923" />
+    <state width="1398" height="139" key="GridCell.Tab.1.left" timestamp="1591578933923">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.left/0.23.1440.839@0.23.1440.839" timestamp="1591578933923" />
+    <state width="1398" height="139" key="GridCell.Tab.1.right" timestamp="1591578933923">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="1398" height="139" key="GridCell.Tab.1.right/0.23.1440.839@0.23.1440.839" timestamp="1591578933923" />
+    <state x="0" y="23" width="1440" height="839" key="SettingsEditor" timestamp="1590409707338">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="0" y="23" width="1440" height="839" key="SettingsEditor/0.23.1440.839@0.23.1440.839" timestamp="1590409707338" />
+    <state width="441" height="839" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1590409819171">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state width="441" height="839" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.23.1440.839@0.23.1440.839" timestamp="1590409819171" />
+    <state x="536" y="237" width="667" height="486" key="find.popup" timestamp="1591259680867">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="536" y="237" width="667" height="486" key="find.popup/0.23.1440.839@0.23.1440.839" timestamp="1591259680867" />
+    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup" timestamp="1590505767653">
+      <screen x="0" y="23" width="1440" height="839" />
+    </state>
+    <state x="385" y="181" width="670" height="681" key="search.everywhere.popup/0.23.1440.839@0.23.1440.839" timestamp="1590505767653" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -512,10 +507,158 @@
           <line>28</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/BinaryTreeDemo.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/BinaryTreeDemo.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/BinaryTreeDemo.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/BinaryTreeDemo.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.0.1/jgrapht-core-1.0.1.jar!/org/jgrapht/generate/SimpleWeightedBipartiteGraphMatrixGenerator.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.4.0/jgrapht-core-1.4.0.jar!/org/jgrapht/generate/SimpleWeightedBipartiteGraphMatrixGenerator.class</url>
+          <line>58</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/BipartiteGraphGenerator.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.4.0/jgrapht-core-1.4.0.jar!/org/jgrapht/graph/AbstractBaseGraph.class</url>
+          <line>263</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/KmTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/alg/km/Km.java</url>
+          <line>193</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarytree/ThreadedBinaryTreeDemo.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/binarysorttree/BinarySortTreeDemo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/datastructure/graph/Graph.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/algorithm/prim/MinTree.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/algorithm/kruskal/KruskalAlgorithm.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/Graph.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/Graph.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/algorithm/dijkstra/Graph.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode84.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode84.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode84.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode84.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/github_test$Test3.ic" NAME="Test3 Coverage Results" MODIFIED="1591458422565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wxh.beautycode.game.chapter1.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/github_test$JmsConsumer.ic" NAME="JmsConsumer Coverage Results" MODIFIED="1577887340419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.wxh.activemq.*</FILTER>
     </SUITE>

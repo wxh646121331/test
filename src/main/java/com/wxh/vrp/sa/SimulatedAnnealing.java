@@ -18,7 +18,7 @@ public class SimulatedAnnealing {
         // 定义初始温度
         double temp = 100000;
         // 降温速度
-        double coolingRate = 0.003;
+        double coolingRate = 0.002;
 
         // 随机生成初始解
         Tour currentSolution = new Tour(tourManager);

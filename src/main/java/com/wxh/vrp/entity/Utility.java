@@ -30,6 +30,7 @@ public class Utility {
      * @return
      */
     public static double acceptanceProbability(int currentDistance, int newDistance, double temperature){
+        int delta = newDistance - currentDistance;
         if(newDistance < currentDistance){
             return 1.0;
         }
