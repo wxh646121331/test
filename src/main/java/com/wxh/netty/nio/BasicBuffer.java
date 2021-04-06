@@ -1,5 +1,9 @@
 package com.wxh.netty.nio;
 
+import org.junit.Test;
+import scala.util.control.Exception;
+
+import java.nio.ByteBuffer;
 import java.nio.IntBuffer;
 
 /**
@@ -7,7 +11,8 @@ import java.nio.IntBuffer;
  * @date 2021/1/26 4:30 下午
  */
 public class BasicBuffer {
-    public static void main(String[] args) {
+    @Test
+    public void testIntBuffer() {
         // 创建一个Buffer，大小为5，即可以存放5个int
         IntBuffer intBuffer = IntBuffer.allocate(5);
         // 向buffer中存放数据
@@ -31,5 +36,34 @@ public class BasicBuffer {
         while (intBuffer.hasRemaining()){
             System.out.println(intBuffer.get());
         }
+    }
+
+    @Test
+    public void testByteBufferPutGet(){
+        ByteBuffer byteBuffer = ByteBuffer.allocate(64);
+        byteBuffer.putInt(100);
+        byteBuffer.putLong(9L);
+        byteBuffer.putChar('好');
+        byteBuffer.putShort((short)1);
+        byteBuffer.flip();
+        System.out.println(byteBuffer.getInt());
+        System.out.println(byteBuffer.getLong());
+        System.out.println(byteBuffer.getChar());
+        System.out.println(byteBuffer.getShort());
+    }
+
+    @Test
+    public void testReadonlyBuffer(){
+        ByteBuffer byteBuffer = ByteBuffer.allocate(64);
+        for(int i=0; i < 64; i++){
+            byteBuffer.put((byte) i);
+        }
+        byteBuffer.flip();
+        ByteBuffer readOnlyBuffer = byteBuffer.asReadOnlyBuffer();
+
+        while (readOnlyBuffer.hasRemaining()){
+            System.out.println(readOnlyBuffer.get());
+        }
+//        readOnlyBuffer.put((byte)1); //ReadOnlyBufferException
     }
 }

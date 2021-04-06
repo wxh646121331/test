@@ -36,94 +36,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9171bbd3-d281-46fb-aed4-cde0ffdbf5f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/BIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/BasicBuffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/WX20201102-174012@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/Leetcode232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/MappedByteBufferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/NIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/NioFileChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/ScatteringAndGatheringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/groupchat/GroupChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/groupchat/GroupChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/NettyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/NettyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/zerocopy/NewIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/zerocopy/NewIOServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-boot-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsConsumer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsProduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/activemq/JmsProduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/KmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/alg/km/KmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/bean/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/bean/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/datastructure/stack/ReversePolishNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/jsprit/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/jsprit/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode1078.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/leetcode/done/Leetcode1078.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/TabuSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/vrp/ts/TabuSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/zookeeper/ZKTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/zookeeper/ZKTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java/lang/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/BasicBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/BasicBuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,13 +153,34 @@
       <recent name="$PROJECT_DIR$/src/main/resources/sh" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicBuffer">
-    <configuration name="BIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.BIOServer" />
+  <component name="RunManager" selected="Application.NettyClient (5)">
+    <configuration name="GroupChatClient1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.nio.groupchat.GroupChatClient" />
+      <module name="spring-boot-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatClient2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.nio.groupchat.GroupChatClient" />
+      <module name="spring-boot-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupChatClient3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.nio.groupchat.GroupChatClient" />
+      <module name="spring-boot-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (10)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.netty.*" />
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicBuffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.nio.BasicBuffer" />
+    <configuration name="NettyClient (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.netty.nio.*" />
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Interview29" />
+    <configuration name="NettyClient (2)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.leetcode.done.Leetcode238" />
+    <configuration name="NettyClient (3)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.leetcode.done.*" />
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +227,142 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wxh.beautycode.game.chapter1.Test3" />
+    <configuration name="NettyClient (4)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
       <module name="spring-boot-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wxh.beautycode.game.chapter1.*" />
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (5)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (6)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (7)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (8)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient (9)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.NettyServer" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.zerocopy.NewIOClient" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.zerocopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.zerocopy.NewIOServer" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.zerocopy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxh.netty.simple.Test" />
+      <module name="spring-boot-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxh.netty.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,19 +379,32 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BIOServer" />
-      <item itemvalue="Application.BasicBuffer" />
-      <item itemvalue="Application.Interview29" />
-      <item itemvalue="Application.Leetcode238" />
-      <item itemvalue="Application.Test3" />
+      <item itemvalue="Application.GroupChatClient1" />
+      <item itemvalue="Application.GroupChatClient2" />
+      <item itemvalue="Application.GroupChatClient3" />
+      <item itemvalue="Application.NettyClient (1)" />
+      <item itemvalue="Application.NewIOServer" />
+      <item itemvalue="Application.NewIOClient" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.NettyServer" />
+      <item itemvalue="Application.NettyClient" />
+      <item itemvalue="Application.NettyClient (2)" />
+      <item itemvalue="Application.NettyClient (3)" />
+      <item itemvalue="Application.NettyClient (4)" />
+      <item itemvalue="Application.NettyClient (5)" />
+      <item itemvalue="Application.NettyClient (6)" />
+      <item itemvalue="Application.NettyClient (7)" />
+      <item itemvalue="Application.NettyClient (8)" />
+      <item itemvalue="Application.NettyClient (9)" />
+      <item itemvalue="Application.NettyClient (10)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicBuffer" />
-        <item itemvalue="Application.BIOServer" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Interview29" />
-        <item itemvalue="Application.Leetcode238" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.NewIOClient" />
+        <item itemvalue="Application.NewIOServer" />
       </list>
     </recent_temporary>
   </component>
@@ -381,69 +477,99 @@
       <screen x="1440" y="23" width="1920" height="1005" />
     </state>
     <state x="1888" y="107" key="#Project_Structure/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611277421786" />
+    <state x="318" y="158" width="904" height="575" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617628637533">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="318" y="158" width="904" height="575" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.825@0.23.1440.825" timestamp="1617628637533" />
+    <state x="1864" y="187" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617183011689" />
+    <state x="1066" y="198" key="#com.intellij.ide.util.MemberChooser" timestamp="1617547743117">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="1066" y="198" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1617547743117" />
     <state x="2138" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611278394913">
       <screen x="1440" y="23" width="1920" height="1005" />
     </state>
     <state x="2138" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611278394913" />
-    <state width="439" height="466" key="DebuggerActiveHint" timestamp="1612313294974">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="481" height="364" key="DebuggerActiveHint" timestamp="1617628589202">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="439" height="466" key="DebuggerActiveHint/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612313294974" />
-    <state width="1878" height="276" key="GridCell.Tab.0.bottom" timestamp="1612322370830">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="456" height="466" key="DebuggerActiveHint/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614128486629" />
+    <state width="481" height="364" key="DebuggerActiveHint/0.23.1440.825@0.23.1440.825" timestamp="1617628589201" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom" timestamp="1617628664834">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611651895898" />
-    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370830" />
-    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1612270541578" />
+    <state width="1878" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1612490007809" />
+    <state width="1398" height="311" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1612529633287" />
+    <state width="1878" height="344" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617153322385" />
+    <state width="1398" height="238" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1617628664834" />
+    <state width="1878" height="276" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271436" />
+    <state width="1398" height="344" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1617116312542" />
     <state width="1878" height="357" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715796" />
-    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611278492819" />
-    <state width="1878" height="276" key="GridCell.Tab.0.center" timestamp="1612322370828">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="238" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617183106558" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center" timestamp="1617628664834">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611651895894" />
-    <state width="1878" height="276" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370828" />
-    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1612270541577" />
+    <state width="1878" height="244" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1612490007805" />
+    <state width="1398" height="311" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1612529633286" />
+    <state width="1878" height="344" key="GridCell.Tab.0.center/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617153322383" />
+    <state width="1398" height="238" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1617628664834" />
+    <state width="1878" height="276" key="GridCell.Tab.0.center/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271432" />
+    <state width="1398" height="344" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1617116312541" />
     <state width="1878" height="357" key="GridCell.Tab.0.center/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715794" />
-    <state width="1878" height="273" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611278492818" />
-    <state width="1878" height="276" key="GridCell.Tab.0.left" timestamp="1612322370827">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="238" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617183106555" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left" timestamp="1617628664833">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611651895891" />
-    <state width="1878" height="276" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370827" />
-    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1612270541576" />
+    <state width="1878" height="244" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1612490007804" />
+    <state width="1398" height="311" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1612529633285" />
+    <state width="1878" height="344" key="GridCell.Tab.0.left/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617153322382" />
+    <state width="1398" height="238" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1617628664833" />
+    <state width="1878" height="276" key="GridCell.Tab.0.left/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271429" />
+    <state width="1398" height="344" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1617116312540" />
     <state width="1878" height="357" key="GridCell.Tab.0.left/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715792" />
-    <state width="1878" height="273" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611278492818" />
-    <state width="1878" height="276" key="GridCell.Tab.0.right" timestamp="1612322370829">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="238" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617183106554" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right" timestamp="1617628664834">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611651895896" />
-    <state width="1878" height="276" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370829" />
-    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1612270541577" />
+    <state width="1878" height="244" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1612490007807" />
+    <state width="1398" height="311" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1612529633286" />
+    <state width="1878" height="344" key="GridCell.Tab.0.right/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617153322384" />
+    <state width="1398" height="238" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1617628664834" />
+    <state width="1878" height="276" key="GridCell.Tab.0.right/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271434" />
+    <state width="1398" height="344" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1617116312542" />
     <state width="1878" height="357" key="GridCell.Tab.0.right/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715795" />
-    <state width="1878" height="273" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611278492818" />
-    <state width="1878" height="276" key="GridCell.Tab.1.bottom" timestamp="1612322370831">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1878" height="238" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617183106556" />
+    <state width="1398" height="202" key="GridCell.Tab.1.bottom" timestamp="1617628616130">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1878" height="112" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611650029030" />
-    <state width="1878" height="276" key="GridCell.Tab.1.bottom/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370831" />
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614128740278" />
+    <state width="1398" height="202" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1617628616130" />
+    <state width="1878" height="276" key="GridCell.Tab.1.bottom/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271444" />
     <state width="1878" height="357" key="GridCell.Tab.1.bottom/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715409" />
-    <state width="1878" height="276" key="GridCell.Tab.1.center" timestamp="1612322370831">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1398" height="202" key="GridCell.Tab.1.center" timestamp="1617628616129">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1878" height="112" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611650029022" />
-    <state width="1878" height="276" key="GridCell.Tab.1.center/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370831" />
+    <state width="1878" height="276" key="GridCell.Tab.1.center/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614128740275" />
+    <state width="1398" height="202" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1617628616129" />
+    <state width="1878" height="276" key="GridCell.Tab.1.center/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271439" />
     <state width="1878" height="357" key="GridCell.Tab.1.center/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715406" />
-    <state width="1878" height="276" key="GridCell.Tab.1.left" timestamp="1612322370830">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1398" height="202" key="GridCell.Tab.1.left" timestamp="1617628616128">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1878" height="112" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611650029018" />
-    <state width="1878" height="276" key="GridCell.Tab.1.left/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370830" />
+    <state width="1878" height="276" key="GridCell.Tab.1.left/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614128740274" />
+    <state width="1398" height="202" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1617628616128" />
+    <state width="1878" height="276" key="GridCell.Tab.1.left/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271437" />
     <state width="1878" height="357" key="GridCell.Tab.1.left/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715404" />
-    <state width="1878" height="276" key="GridCell.Tab.1.right" timestamp="1612322370831">
-      <screen x="1440" y="23" width="1920" height="1057" />
+    <state width="1398" height="202" key="GridCell.Tab.1.right" timestamp="1617628616129">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1878" height="112" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1611650029025" />
-    <state width="1878" height="276" key="GridCell.Tab.1.right/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1612322370831" />
+    <state width="1878" height="276" key="GridCell.Tab.1.right/0.23.1440.825/1440.23.1920.1057@1440.23.1920.1057" timestamp="1614128740277" />
+    <state width="1398" height="202" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1617628616129" />
+    <state width="1878" height="276" key="GridCell.Tab.1.right/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1617178271441" />
     <state width="1878" height="357" key="GridCell.Tab.1.right/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563715407" />
     <state x="1938" y="187" key="Maven.ArtifactSearchDialog" timestamp="1611278263441">
       <screen x="1440" y="23" width="1920" height="1005" />
@@ -453,10 +579,20 @@
       <screen x="1440" y="23" width="1920" height="1005" />
     </state>
     <state x="1888" y="107" key="SettingsEditor/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1611277786368" />
+    <state x="56" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1617116150070">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="56" y="84" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.826@0.23.1440.826" timestamp="1617116150070" />
     <state x="1823" y="214" key="new project wizard" timestamp="1611563426725">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1823" y="214" key="new project wizard/0.23.1440.833/1440.23.1920.1057@1440.23.1920.1057" timestamp="1611563426725" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup" timestamp="1617545224060">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="385" y="163" width="670" height="738" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1612526525760" />
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1617545224060" />
+    <state x="1953" y="205" width="894" height="825" key="search.everywhere.popup/0.23.1440.877/1440.23.1920.1005@1440.23.1920.1005" timestamp="1617182013395" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -708,18 +844,39 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/BasicBuffer.java</url>
-          <line>11</line>
+          <line>16</line>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/BasicBuffer.java</url>
-          <line>17</line>
+          <line>22</line>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/NIOServer.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/netty/nio/groupchat/GroupChatServer.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/wxh/netty/simple/NettyServer.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$ScatteringAndGatheringTest.ic" NAME="ScatteringAndGatheringTest Coverage Results" MODIFIED="1612625735485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wxh.netty.nio.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/test$GroupChatClient.ic" NAME="GroupChatClient Coverage Results" MODIFIED="1617182803960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wxh.netty.nio.groupchat.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/github_test$Test3.ic" NAME="Test3 Coverage Results" MODIFIED="1591458422565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.wxh.beautycode.game.chapter1.*</FILTER>
     </SUITE>
